@@ -32,6 +32,6 @@ class SendInvite():
             print "Email address or password which will be used to send the invite is missing, \n" \
                   "Please Update it in /etc/reminder/reminder.conf under [EMAIL] section as given in sample conf file"
 
-        print "mail address is: " + mail_address
+        print "mail is: " + mail_address
         print "password is: " + mail_password
         #split the string at '@' and call the appropraite provider
