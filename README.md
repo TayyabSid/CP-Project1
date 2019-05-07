@@ -1,6 +1,3 @@
-# CP-Project1
+# Hi There!
 
-a = 5
-b = 5
-c = a+b
-print(c)
+'DEMO REPOSITORY'
